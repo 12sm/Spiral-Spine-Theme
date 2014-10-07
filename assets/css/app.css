@@ -101,8 +101,12 @@ h3{
 /* Strength Tip */
 .blog-title{
    font-weight: 700;
-   font-size: 32px;
    color: #fff;
+   font-size: 20px;
+   float: left;
+}
+.blog-title-banner a,  .blog-title-banner a .blog-title {
+margin-top: 15px;
 }
 .btn .btn-blue{
    font-weight: 900;
@@ -140,7 +144,12 @@ position: absolute;
 background: #000;
 bottom: 55px;
 width: 100%;
+padding: 5px;
 }
+.blog-container {
+position: relative;
+}
+
 /* ==========================================================================
    About (See the Style Guide)
    ========================================================================== */
