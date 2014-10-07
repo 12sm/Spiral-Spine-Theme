@@ -113,13 +113,7 @@ margin-top: 15px;
    font-size: 16px;
    text-transform: uppercase;
    letter-spacing: .02em;
-}
-/* Most Popular */
-.most-popular{
-   font-weight: 700;
-   font-size: 17px;
-   color: #fff;
-}
+} 
 
 /* Strength Tip #10 (Blog Roll)? */
 .blog-roll .line1{
@@ -132,7 +126,6 @@ margin-top: 15px;
    font-size: 18px;
    color: #618a94;
 }
-
 .img-bg {
 padding-bottom: 100%;
 }
@@ -141,7 +134,7 @@ padding-bottom: 85%;
 }
 .blog-title-banner {
 position: absolute;
-background: #000;
+background: #436268;
 bottom: 55px;
 width: 100%;
 padding: 5px;
@@ -149,7 +142,15 @@ padding: 5px;
 .blog-container {
 position: relative;
 }
-
+.home-boxes {
+background: #436268;
+padding: 5px;
+}
+.home-boxes a{
+   font-weight: 700;
+   font-size: 17px;
+   color: #fff;
+}
 /* ==========================================================================
    About (See the Style Guide)
    ========================================================================== */
