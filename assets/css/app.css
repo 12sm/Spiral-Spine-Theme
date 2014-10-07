@@ -130,10 +130,16 @@ h3{
 }
 
 .img-bg {
-padding-bottom: 65%;
+padding-bottom: 100%;
 }
 .vid-thumb {
 padding-bottom: 85%;
+}
+.blog-title-banner {
+position: absolute;
+background: #000;
+bottom: 55px;
+width: 100%;
 }
 /* ==========================================================================
    About (See the Style Guide)
