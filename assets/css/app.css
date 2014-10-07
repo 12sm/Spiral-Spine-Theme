@@ -2,10 +2,7 @@
  * Roots 6.5.0
  */
 
-/*splash*/
-.banner{
-   display: none!important;
-}
+
 .headline{
    font-size: 36px;
    color: #000;
