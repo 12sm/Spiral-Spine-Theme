@@ -50,9 +50,12 @@ margin-bottom: -10px;
    ========================================================================== */
 
 body {background: #fff; }
+p {color:#454545;}
 a{
    text-decoration: none!important;
+   color:#618a94;
 }
+a:hover {color:#436268;}
 h1,h2,h3,h4,h5,h6,p,a{
    font-family: "museo-sans";
 }
@@ -373,6 +376,8 @@ padding: 25px 0px;
 /* ==========================================================================
    Footer
    ========================================================================== */
+
+footer a {color:#fff;}
 
 .bottom-email-signup {background: #628A94;}
 .content-info{background: #436268; width:100%;}
