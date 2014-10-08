@@ -124,12 +124,12 @@ margin-top: 15px;
 } 
 
 /* Strength Tip #10 (Blog Roll)? */
-.blog-roll .line1{
+.blog-roll-title{
    font-weight: 700;
    font-size: 38px;
    color: #618a94;
 }
-.blog-roll .line2{
+.blog-roll-meta{
    font-weight: 500;
    font-size: 18px;
    color: #618a94;
@@ -137,7 +137,7 @@ margin-top: 15px;
 .img-bg {
 padding-bottom: 100%;
 }
-.vid-thumb {
+.vid-thumb, .pop-thumb {
 padding-bottom: 85%;
 }
 .blog-title-banner {
@@ -154,10 +154,12 @@ position: relative;
 background: #436268;
 padding: 5px;
 font-weight: 700;
-   font-size: 17px;
-   color: #fff;
+font-size: 17px;
+color: #fff;
 }
-
+.blog-roll-img {
+padding-bottom: 40%;
+}
 /* ==========================================================================
    About (See the Style Guide)
    ========================================================================== */
