@@ -1,1 +1,1 @@
-<?php the_ddlayout('default-page-layout'); ?>
+<?php the_ddlayout(); ?>
