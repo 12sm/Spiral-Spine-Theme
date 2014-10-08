@@ -12,7 +12,7 @@
 }
 .splash .fa{
    font-size: 48px;
-   color: #000;
+   color: #436268;
 }
 .splash .icons{
    max-width: 52px;
@@ -38,8 +38,12 @@ margin-bottom: -10px;
 .splash .credits{
    display: none;
 }
-
-
+.splash .content-info{
+   display: none;
+}
+.splash .container{
+   background: transparent;
+}
 
 /* ==========================================================================
    Base
