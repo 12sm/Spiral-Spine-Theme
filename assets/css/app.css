@@ -377,9 +377,12 @@ padding: 25px 0px;
    Footer
    ========================================================================== */
 
-footer a {color:#fff;}
+.bottom-email-signup {background: #628A94; margin-top:100px;}
+.bottom-email-signup h2,
+.bottom-email-signup h3 {color:#fff; text-align:center;}
+.erin-footer {position: absolute;top: -116px;}
 
-.bottom-email-signup {background: #628A94;}
+footer a {color:#fff;}
 .content-info{background: #436268; width:100%;}
 
 #social ul {margin:0px; padding:0px; list-style: none;}

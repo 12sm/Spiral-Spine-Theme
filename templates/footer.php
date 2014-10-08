@@ -1,4 +1,4 @@
-<div class="footer-email-signup">
+<div class="bottom-email-signup">
   <div class="container-fluid">
   	<div class="row">
   		<div class="col-md-3 erin hidden-xs hidden-sm">
