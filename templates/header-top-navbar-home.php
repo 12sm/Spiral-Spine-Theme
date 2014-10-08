@@ -9,7 +9,6 @@
       </button>
       <a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="../assets/img/logo.png" class="img-responsive"></a>
     </div>
-
     <nav class="collapse navbar-collapse" role="navigation">
       <?php
         if (has_nav_menu('primary_navigation')) :
@@ -18,6 +17,7 @@
       ?>
     </nav>
   </div>
+</header>
   <div class="row slider">
   	<?php echo do_shortcode('[rev_slider home-slider]'); ?>
   </div>
@@ -32,4 +32,3 @@
     	</div>	
     </div>
   </div>  
-</header>
