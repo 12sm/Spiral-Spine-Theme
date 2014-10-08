@@ -108,7 +108,7 @@ h3{
 .blog-title-banner a,  .blog-title-banner a .blog-title {
 margin-top: 15px;
 }
-.btn .btn-blue{
+.btn.btn-blue{
    font-weight: 900;
    font-size: 16px;
    text-transform: uppercase;
