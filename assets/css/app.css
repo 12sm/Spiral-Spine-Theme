@@ -3,32 +3,40 @@
  */
 
 
-.headline{
+.splash .banner{
+   display: none!important;
+}
+.splash .headline{
    font-size: 36px;
    color: #000;
 }
-.fa{
-   font-size: 28px;
-   color: #fff;
+.splash .fa{
+   font-size: 48px;
+   color: #000;
 }
-.icons{
+.splash .icons{
    max-width: 52px;
 }
-.socials{
+.splash .socials{
    padding-left: 0px;
    list-style: none;
 }
-.socials li{
+.splash .socials li{
    display: inline-block;
    padding-left: 15px;
    padding-right: 15px;
 }
-
-li.icons.amazon {
+.splash *{
+   text-align: center;
+}
+.splash li.icons.amazon {
    padding-right: 0px;
 padding-left: 0px;
 margin-left: 15px;
 margin-bottom: -10px;
+}
+.splash .credits{
+   display: none;
 }
 
 
