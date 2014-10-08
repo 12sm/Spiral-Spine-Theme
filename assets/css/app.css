@@ -238,7 +238,7 @@ h1.video-title{
 
 .banner {
    background: #628A94;
-   border-bottom: 10px #436268;
+   border-bottom: 15px solid #436268;
 }
 
 .banner a{
@@ -271,7 +271,7 @@ margin-right: 25px;
 .content { }
 
 .wrap.container-fluid {
-padding: 75px 15px;
+
 }
 
 /* ==========================================================================
