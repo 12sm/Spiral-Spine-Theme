@@ -301,9 +301,11 @@ margin: 10px 25px 0px 0px;
 .slide-color-1 {background-color:#f2f0f1;}
 
 .email-signup {
+background: #628A94;
 text-align:center;
-color:#fff;
 }
+
+.email-signup h2, .email-signup h3 {color:#fff;}
 /* ==========================================================================
    Content
    ========================================================================== */
