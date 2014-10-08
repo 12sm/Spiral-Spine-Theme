@@ -323,6 +323,10 @@ font-family: 'museo-sans', Helvetica, sans-serif;
 }
 
 .email-signup #mc_embed_signup {padding: 45px 0px;}
+.video-box i {
+font-size: 90px;
+color: rgba(255,255,255,.7);
+}
 /* ==========================================================================
    Content
    ========================================================================== */
