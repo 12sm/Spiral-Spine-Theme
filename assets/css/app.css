@@ -260,13 +260,20 @@ border-radius: 20px;
 margin: 0px 5px;
 padding: 6px 10px;
 font-weight: 600;
+-webkit-transition: all 0.3s;
+-moz-transition: all 0.3s;
+transition: all 0.3s;
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-   transition: 1s swing;
-   background-color: #fff;
    border-radius: 20px;
    color:#618a94;
+   background-color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:hover:after {
+height:75%;
+opacity:1;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
