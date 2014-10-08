@@ -312,6 +312,15 @@ text-align:center;
 }
 
 .email-signup h2, .email-signup h3 {color:#fff;}
+
+.submit-button {
+background: #436268;
+color:#fff;
+border: none;
+font-family: 'museo-sans', Helvetica, sans-serif;	
+}
+
+.email-signup #mc_embed_signup {padding: 45px 0px;}
 /* ==========================================================================
    Content
    ========================================================================== */

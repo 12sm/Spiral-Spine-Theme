@@ -18,7 +18,7 @@
     </nav>
   </div>
 </header>
-  <div class="row slider">
+  <div class="slider">
   	<?php echo do_shortcode('[rev_slider home-slider]'); ?>
   </div>
   <div class="row email-signup">
