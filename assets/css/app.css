@@ -8,8 +8,8 @@
    color: #000;
 }
 .fa{
-   font-size: 48px;
-   color: #000;
+   font-size: 28px;
+   color: #fff;
 }
 .icons{
    max-width: 52px;
@@ -294,7 +294,7 @@ padding: 75px 15px;
    Footer
    ========================================================================== */
 
-.content-info { }
+.content-info {background: #628A94;}
 
 #social ul {margin:0px; padding:0px; list-style: none;}
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
