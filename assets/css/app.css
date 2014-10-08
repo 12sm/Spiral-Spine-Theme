@@ -110,6 +110,12 @@ h3{
 .blog-title-banner a,  .blog-title-banner a .blog-title {
 margin-top: 15px;
 }
+.blog-roll-body .btn {
+float: left;
+}
+.blog-roll-body {
+margin-top: 75px;
+}
 .btn.btn-blue{
    font-weight: 900;
    font-size: 16px;
