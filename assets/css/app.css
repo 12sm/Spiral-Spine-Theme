@@ -327,7 +327,9 @@ font-family: 'museo-sans', Helvetica, sans-serif;
    Content
    ========================================================================== */
 
-.content { }
+.content {
+padding: 25px 0px;
+}
 
 .wrap.container-fluid {
 
