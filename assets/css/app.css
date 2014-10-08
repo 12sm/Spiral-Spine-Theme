@@ -49,7 +49,7 @@ margin-bottom: -10px;
    Base
    ========================================================================== */
 
-body {background: #436268; }
+body {background: #fff; }
 a{
    text-decoration: none!important;
 }
@@ -236,7 +236,10 @@ h1.video-title{
    Header
    ========================================================================== */
 
-.banner {background: transparent;border: 0px;}
+.banner {
+   background: #628A94;
+   border-bottom: 10px #436268;
+}
 
 .banner a{
    text-transform: uppercase;
@@ -253,10 +256,7 @@ max-width: 110px;
 padding: 0px;
 margin-left: 75px!important;
 }
-header .container-fluid {
-background: #628A94;
-box-shadow: 2px 5px 5px #436268;
-}
+
 ul#menu-primary-navigation {
 float: right;
 margin-right: 25px;
@@ -310,7 +310,7 @@ padding: 75px 15px;
    ========================================================================== */
 
 .bottom-email-signup {background: #628A94;}
-.content-info{background: transparent;}
+.content-info{background: #436268; width:100%;}
 
 #social ul {margin:0px; padding:0px; list-style: none;}
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
