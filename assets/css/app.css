@@ -118,6 +118,7 @@ margin-top: 15px;
    background: #5F8993;
    color: #fff;
    margin-top: 7px;
+   border-radius: 0px;
 }
 .margin-top-md{
    margin-top:50px;
@@ -138,7 +139,7 @@ margin-top: 15px;
 padding-bottom: 100%;
 }
 .vid-thumb, .pop-thumb {
-padding-bottom: 85%;
+padding-bottom: 60%;
 }
 .blog-title-banner {
 position: absolute;
