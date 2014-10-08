@@ -26,7 +26,7 @@ var Roots = {
        $('.img-lq').imgLiquid();
        
        $('.nav li a').hover(function () {
-         $(this).toggleClass('animated fadeInDown');
+         $(this).toggleClass('animated bounceIn');
         });
     }
   },
