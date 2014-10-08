@@ -163,6 +163,9 @@ padding-bottom: 40%;
 .blog-roll-title, .blog-roll-meta, .blog-roll-body .btn{
    text-align: left;
 }
+.page-header {
+display: none;
+}
 /* ==========================================================================
    About (See the Style Guide)
    ========================================================================== */
