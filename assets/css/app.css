@@ -253,7 +253,7 @@ max-width: 110px;
 padding: 0px;
 margin-left: 75px!important;
 }
-header .container {
+header .container-fluid {
 background: #628A94;
 box-shadow: 2px 5px 5px #436268;
 }
@@ -270,7 +270,7 @@ margin-right: 25px;
 
 .content { }
 
-.wrap.container {
+.wrap.container-fluid {
 padding: 75px 15px;
 }
 
@@ -356,7 +356,7 @@ h3{
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-.container {
+.container-fluid {
 width: 1170px;
 }
  }
