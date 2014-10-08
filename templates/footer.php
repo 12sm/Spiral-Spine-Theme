@@ -5,7 +5,7 @@
   			<img src="http://spiralspine.com/assets/img/ErinFooter.png" class="erin-footer" />
   		</div>
   		<div class="col-md-4 col-sm-6">
-  			<h2>Help Inform, Inspire, Ignite</h2>
+  			<h2>Inform, Inspire, Ignite</h2>
     		<h3>Get news to learn how.</h3>
   		</div>
   		<div class="col-md-5 col-sm-6">
