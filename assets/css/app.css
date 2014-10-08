@@ -329,6 +329,18 @@ font-family: 'museo-sans', Helvetica, sans-serif;
 .video-box i {
 font-size: 90px;
 color: rgba(255,255,255,.7);
+position: absolute;
+top: 35%;
+right: 50%;
+left: 50%;
+margin-left: -25%;
+margin-right: -25%;
+pointer-events: none;
+}
+.video-box {
+text-align: center;
+position: relative;
+position: r;
 }
 /* ==========================================================================
    Content
