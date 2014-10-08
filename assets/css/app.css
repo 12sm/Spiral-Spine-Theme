@@ -87,18 +87,18 @@ width: initial;
 */
 
 /*Praise for Erin*/
-.praise .line1{
+.quote-title{
    font-weight: 700;
    text-transform: uppercase;
    font-size: 25px;
    color: #fff;
 }
-.praise .line2{
+.white{
    font-weight: 100;
    font-size: 25px;
    color: #fff;
 }
-.praise .line3{
+.white b{
    font-weight: 700;
    font-size: 18px;
    color: #fff;
@@ -186,6 +186,12 @@ padding-bottom: 40%;
 }
 .page-header {
 display: none;
+}
+.quote-block {
+background: #5F8993;
+padding: 15px 15px;
+color: #fff;
+text-align: center;
 }
 /* ==========================================================================
    About (See the Style Guide)
