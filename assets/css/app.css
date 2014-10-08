@@ -23,19 +23,13 @@
    padding-left: 15px;
    padding-right: 15px;
 }
-*{
-   text-align: center;
-}
+
 li.icons.amazon {
    padding-right: 0px;
 padding-left: 0px;
 margin-left: 15px;
 margin-bottom: -10px;
 }
-.credits{
-   display: none;
-}
-
 
 
 
@@ -146,14 +140,15 @@ margin-bottom: 75px;
 padding-bottom: 100%;
 }
 .vid-thumb, .pop-thumb {
-padding-bottom: 60%;
+padding-bottom: 45%;
+background-position: 50% 10%!important;
 }
 .blog-title-banner {
 position: absolute;
 background: #436268;
 bottom: 55px;
 width: 100%;
-padding: 5px;
+padding: 5px 20px;
 }
 .blog-container {
 position: relative;
@@ -162,7 +157,7 @@ position: relative;
 background: #436268;
 padding: 5px;
 font-weight: 700;
-font-size: 17px;
+font-size: 14px;
 color: #fff;
 }
 .blog-roll-img {
