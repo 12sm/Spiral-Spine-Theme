@@ -157,7 +157,7 @@ margin-bottom: 75px;
 .img-bg {
 padding-bottom: 100%;
 }
-.vid-thumb, .pop-thumb {
+.vid-thumb, .blog-box {
 padding-bottom: 45%;
 background-position: 50% 10%!important;
 }
@@ -343,7 +343,6 @@ display: none;
 .video-box {
 text-align: center;
 position: relative;
-position: r;
 }
 /* ==========================================================================
    Content
