@@ -294,7 +294,8 @@ padding: 75px 15px;
    Footer
    ========================================================================== */
 
-.content-info {background: #628A94;}
+.bottom-email-signup {background: #628A94;}
+.content-info{background: transparent;}
 
 #social ul {margin:0px; padding:0px; list-style: none;}
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
