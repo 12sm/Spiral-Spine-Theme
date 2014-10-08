@@ -160,6 +160,9 @@ color: #fff;
 .blog-roll-img {
 padding-bottom: 40%;
 }
+.blog-roll-title, .blog-roll-meta, .blog-roll-body .btn{
+   text-align: left;
+}
 /* ==========================================================================
    About (See the Style Guide)
    ========================================================================== */
