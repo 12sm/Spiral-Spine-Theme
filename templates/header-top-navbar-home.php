@@ -21,7 +21,7 @@
   <div class="slider">
   	<?php echo do_shortcode('[rev_slider home-slider]'); ?>
   </div>
-  <div class="row email-signup">
+  <div class="email-signup">
     <div class="container-fluid">
     <div class="row">
     	<div class="col-md-6 col-sm-12">
