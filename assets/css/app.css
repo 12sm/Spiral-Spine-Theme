@@ -114,7 +114,7 @@ margin-top: 15px;
 float: left;
 }
 .blog-roll-body {
-margin-top: 75px;
+margin-bottom: 75px;
 }
 .btn.btn-blue{
    font-weight: 900;
@@ -223,7 +223,7 @@ h1.video-title{
    Header
    ========================================================================== */
 
-.banner {background: transparent;}
+.banner {background: transparent;border: 0px;}
 
 .banner a{
    text-transform: uppercase;
@@ -243,13 +243,19 @@ header .container {
 background: #628A94;
 box-shadow: 2px 5px 5px #436268;
 }
+ul#menu-primary-navigation {
+float: right;
+margin-right: 25px;
+}
 /* ==========================================================================
    Content
    ========================================================================== */
 
 .content { }
 
-
+.wrap.container {
+padding-top: 75px;
+}
 
 /* ==========================================================================
    Primary Content
