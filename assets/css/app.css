@@ -249,19 +249,27 @@ margin-bottom: 10px;
 .banner {
    background: #628A94;
    border-bottom: 15px solid #436268;
+   padding: 15px 0px;
 }
 
-.nav>li>a{
+.navbar-default .navbar-nav>li>a {
    text-transform: uppercase;
    font-size: 17px;
    letter-spacing: .02em;
+   border-radius:20px;
 }
-.nav>li>a:hover{
-   transition: background-color .5s swing;
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+   transition: 1s swing;
    background-color: #fff;
    border-radius: 20px;
-   color:#618a94;:
+   color:#618a94;
 }
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+   color:#618a94;:
+   background-color: #fff;
+}
+
 a.navbar-brand {
 max-width: 110px;
 padding: 0px;
