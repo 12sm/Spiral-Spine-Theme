@@ -44,7 +44,9 @@ margin-bottom: -10px;
    ========================================================================== */
 
 body {background: #436268; }
-
+a{
+   text-decoration: none!important;
+}
 h1,h2,h3,h4,h5,h6,p,a{
    font-family: "museo-sans";
 }
@@ -113,6 +115,8 @@ margin-top: 15px;
    font-size: 16px;
    text-transform: uppercase;
    letter-spacing: .02em;
+   background: #5F8993;
+   color: #fff;
 }
 .margin-top-md{
    margin-top:50px;
