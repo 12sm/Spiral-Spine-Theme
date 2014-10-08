@@ -337,6 +337,9 @@ margin-left: -25%;
 margin-right: -25%;
 pointer-events: none;
 }
+a[title='Edit view'] {
+display: none;
+}
 .video-box {
 text-align: center;
 position: relative;
