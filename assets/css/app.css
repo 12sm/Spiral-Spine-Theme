@@ -150,6 +150,9 @@ bottom: 55px;
 width: 100%;
 padding: 5px 20px;
 }
+.blog-title-banner a.btn.btn-blue {
+float: right;
+}
 .blog-container {
 position: relative;
 }
@@ -253,7 +256,7 @@ margin-right: 25px;
 .content { }
 
 .wrap.container {
-padding-top: 75px;
+padding: 75px 15px;
 }
 
 /* ==========================================================================
