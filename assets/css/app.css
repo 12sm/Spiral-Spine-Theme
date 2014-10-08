@@ -392,6 +392,7 @@ padding: 25px 0px;
 .bottom-email-signup {background: #628A94; margin-top:140px;}
 .bottom-email-signup h2,
 .bottom-email-signup h3 {color:#fff; text-align:center;}
+.bottom-email-signup #mc_embed_signup {padding: 45px 0px;}
 .erin-footer {position: absolute;top: -156px;}
 
 footer a {color:#fff;}

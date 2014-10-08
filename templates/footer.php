@@ -9,6 +9,7 @@
     		<h3>Get news to learn how.</h3>
   		</div>
   		<div class="col-md-5 col-sm-6">
+<div id="mc_embed_signup">  		
 <form action="//spiralspine.us9.list-manage.com/subscribe/post?u=d73eb5a9058233250acd4b164&amp;id=41c0f87e4f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
   <div id="mc_embed_signup_scroll">
     <div class="row">
@@ -29,6 +30,7 @@
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_d73eb5a9058233250acd4b164_41c0f87e4f" tabindex="-1" value=""></div>
   </div>
 </form>
+</div>
   		</div>
   	</div>
   </div>
