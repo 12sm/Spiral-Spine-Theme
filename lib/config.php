@@ -54,7 +54,8 @@ function roots_display_sidebar() {
      * The second element must be an array even if there's only 1 argument.
      */
     array(
-      'is_404'
+      'is_404',
+      "is_page_template('template-layouts.php')"
     ),
     /**
      * Page template checks (via is_page_template())

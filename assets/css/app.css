@@ -75,6 +75,9 @@ h3{
 .container{
    background: #fff;
 }
+.container .container {
+width: initial;
+}
 /*
  ***************************************************************
    The following are ordered by the styles in the style guide. 
