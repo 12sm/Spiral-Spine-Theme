@@ -223,7 +223,7 @@ h1.video-title{
    Header
    ========================================================================== */
 
-.banner {background: #628A94; box box-shadow: 2px 5px 5px #436268;}
+.banner {background: transparent;}
 
 .banner a{
    text-transform: uppercase;
@@ -238,6 +238,10 @@ h1.video-title{
 a.navbar-brand {
 max-width: 150px;
 padding: 0px;
+}
+header .container {
+background: #628A94;
+box-shadow: 2px 5px 5px #436268;
 }
 /* ==========================================================================
    Content
