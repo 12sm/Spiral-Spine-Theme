@@ -1,10 +1,10 @@
 <div class="bottom-email-signup">
   <div class="container-fluid">
   	<div class="row">
-  		<div class="col-md-3 erin hidden-xs hidden-sm">
+  		<div class="col-md-2 erin hidden-xs hidden-sm">
   			<img src="http://spiralspine.com/assets/img/ErinFooter.png" class="erin-footer" />
   		</div>
-  		<div class="col-md-4 col-sm-6">
+  		<div class="col-md-5 col-sm-6">
   			<h2>Inform, Inspire, Ignite</h2>
     		<h3>Get news to learn how.</h3>
   		</div>
