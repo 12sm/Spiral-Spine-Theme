@@ -160,15 +160,11 @@ padding-bottom: 100%;
 .vid-thumb, .blog-thumb {
 padding-bottom: 55%;
 background-position: 50% 10%!important;
-<<<<<<< HEAD
--webkit-filter: grayscale(0);
-=======
-
+-webkit-filter: grayscale(0.3);
 }
 .blog-box, .video-box{
    -webkit-filter: grayscale(0.3);
    transition: all .4s ease;
->>>>>>> FETCH_HEAD
 }
 .video-box:hover, .blog-box:hover {
 transition: all .4s ease;
