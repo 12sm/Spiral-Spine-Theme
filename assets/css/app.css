@@ -418,13 +418,17 @@ padding: 0px 0px 30px 0px;
 footer a {color:#fff;}
 .content-info{background: #436268; width:100%;}
 
-#social ul {margin:0px; padding:0px; list-style: none;}
+#social ul {margin:0px; padding:0px; list-style: none; padding-top: 15px;}
 #social li {margin:0px; padding: 0px list-style:none; display: block; float:left;}
 #social li a {padding: 10px;}
 
 .credits{
    color: #fff;
    float: right;
+}
+#menu-socials i {
+font-size: 24px;
+padding: 0px 5px;
 }
 
 
