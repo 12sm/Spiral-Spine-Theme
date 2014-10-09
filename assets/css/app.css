@@ -89,6 +89,11 @@ blockquote {
 .container .container {
 width: initial;
 }
+input, button, select, textarea {
+border: none;
+padding: 5px;
+}
+
 /*
  ***************************************************************
    The following are ordered by the styles in the style guide.
