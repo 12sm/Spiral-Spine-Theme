@@ -158,9 +158,9 @@ margin-bottom: 75px;
 padding-bottom: 100%;
 }
 .vid-thumb, .blog-thumb {
-padding-bottom: 45%;
+padding-bottom: 55%;
 background-position: 50% 10%!important;
--webkit-filter: grayscale(0.3);
+-webkit-filter: grayscale(0);
 }
 .vid-thumb:hover, .blog-thumb:hover {
 transition: all .3s ease;
