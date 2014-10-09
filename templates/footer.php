@@ -65,6 +65,8 @@
 
 <?php wp_footer(); ?>
 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5435ef4703125ec0" async></script>
+
 <!-- Begin 12SM Network Analytics <!-->   
   <script type="text/javascript">
 	var _gaq = _gaq || [];
