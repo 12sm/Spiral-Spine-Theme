@@ -50,7 +50,10 @@ margin-bottom: -10px;
    ========================================================================== */
 
 body {background: #fff; }
-p {color:#454545;}
+p {
+  color:#454545;
+  text-rendering: geometricPrecision;
+}
 a{
    text-decoration: none!important;
    color:#618a94;
@@ -108,6 +111,7 @@ padding: 5px;
    text-transform: uppercase;
    font-size: 25px;
    color: #fff;
+   margin-bottom: 20px;
 }
 .white{
    font-weight: 100;
@@ -231,7 +235,7 @@ margin-bottom:15px;
 
 .quote-block {
 background: #5F8993;
-padding: 15px 15px;
+padding: 20px;
 color: #fff;
 text-align: center;
 }
@@ -491,6 +495,19 @@ padding: 0px 0px 30px 0px;
 .widget_sp_image-2 > div > a > img {
   width: 100% !important;
   height: auto !important;
+}
+
+p.white.sidebar-quote-text {
+font-weight: 100;
+font-style: italic;
+line-height: 1;
+font-size: 24px;
+}
+
+p.white strong {
+font-size: 18px;
+letter-spacing: 1px;
+font-weight: 600;
 }
 
 /* ==========================================================================
