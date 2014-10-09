@@ -445,7 +445,7 @@ h3{
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 .container-fluid {
-width: 1170px;
+max-width: 1170px;
 }
  }
 
