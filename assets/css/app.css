@@ -74,7 +74,14 @@ h3{
    letter-spacing: .0px;
    color: #618a94;
 }
-
+blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+  border-left: 5px solid #eee;
+  background: #F3F6F7;
+  font-weight: 200;
+}
 .container{
    background: #fff;
    max-width: 100%;
@@ -290,6 +297,19 @@ padding-bottom: 25px;
 float: right;
 margin-bottom: 10px;
 }
+
+/* ==========================================================================
+   Book 
+   ========================================================================== */
+
+h5.from-erin {
+font-weight: 200;
+font-size: 20px;
+line-height: 1.3;
+color: rgb(144, 144, 144);
+margin-top: 32px;
+}
+
 /* ==========================================================================
    Header
    ========================================================================== */
