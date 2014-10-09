@@ -113,6 +113,19 @@ width: initial;
    font-size: 25px;
    color: #fff;
 }
+.widget_sp_image-description {
+position: relative;
+background: #436268;
+bottom: 90px;
+width: 100%;
+margin-bottom: 50px;
+padding: 5px 20px;
+}
+.widget_sp_image-description p {
+  letter-spacing: .0px;
+  font-weight: 500;
+  color: #FFF;	
+}
 /* Strength Tip */
 .blog-title{
    font-weight: 700;
