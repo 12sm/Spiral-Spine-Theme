@@ -135,7 +135,6 @@ margin-bottom: 75px;
    letter-spacing: .02em;
    background: #5F8993;
    color: #fff;
-   margin-top: 7px;
    border-radius: 0px;
 }
 .margin-top-md{
@@ -192,6 +191,7 @@ color: #fff;
 }
 .blog-roll-img {
 padding-bottom: 40%;
+margin-bottom:15px;
 }
 .blog-roll-title, .blog-roll-meta, .blog-roll-body .btn{
    text-align: left;
