@@ -205,6 +205,10 @@ padding: 15px 15px;
 color: #fff;
 text-align: center;
 }
+
+.single-video .published {display:none;}
+
+
 /* ==========================================================================
    About (See the Style Guide)
    ========================================================================== */
