@@ -182,6 +182,9 @@ float: right;
 }
 .blog-container {
 position: relative;
+max-height: 500px;
+min-height: 250px;
+overflow: hidden;
 }
 .home-boxes {
 background: #436268;
