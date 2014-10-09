@@ -328,6 +328,11 @@ padding: 0 50px!important;
 
 .wpb_btn-info {
 background-color: #436268;
+transition:background .3s ease;
+}
+
+.wpb_btn-info:hover {
+background-color: #568A94;
 }
 
 span.wpb_btn-large {
