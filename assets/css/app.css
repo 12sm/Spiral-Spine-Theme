@@ -160,6 +160,11 @@ padding-bottom: 100%;
 .vid-thumb, .blog-thumb {
 padding-bottom: 45%;
 background-position: 50% 10%!important;
+-webkit-filter: grayscale(0.3);
+}
+.vid-thumb:hover, .blog-thumb:hover {
+transition: all .3s ease;
+-webkit-filter: grayscale(0.3);
 }
 .blog-title-banner {
 position: absolute;
