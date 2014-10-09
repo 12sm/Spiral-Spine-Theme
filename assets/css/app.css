@@ -254,6 +254,13 @@ text-align: center;
 .about *{
    letter-spacing: .02em
 }
+.theme-default .nivoSlider {
+-webkit-box-shadow: none;
+-moz-box-shadow: none;
+box-shadow: none;
+border: 6px solid #ebebeb;
+}
+
 /* ==========================================================================
    Videos (See the Style Guide)
    ========================================================================== */
