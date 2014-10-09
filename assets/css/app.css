@@ -255,9 +255,9 @@ text-align: center;
    letter-spacing: .02em
 }
 .theme-default .nivoSlider {
--webkit-box-shadow: none;
--moz-box-shadow: none;
-box-shadow: none;
+-webkit-box-shadow: none!important;
+-moz-box-shadow: none!important;
+box-shadow: none!important;
 border: 6px solid #ebebeb;
 }
 
