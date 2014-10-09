@@ -28,6 +28,8 @@ var Roots = {
        $('.nav li a').hover(function () {
          $(this).toggleClass('animated bounceIn');
         });
+        
+         $(".content").fitVids();
     }
   },
   // Home page
