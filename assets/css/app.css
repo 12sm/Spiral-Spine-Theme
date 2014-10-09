@@ -84,9 +84,9 @@ width: initial;
 }
 /*
  ***************************************************************
-   The following are ordered by the styles in the style guide. 
+   The following are ordered by the styles in the style guide.
    I've tried to label them as clearly as possible.
-   Please see me (Ian) with any questions.  
+   Please see me (Ian) with any questions.
  ***************************************************************
 */
 
@@ -140,7 +140,7 @@ margin-bottom: 75px;
 }
 .margin-top-md{
    margin-top:50px;
-} 
+}
 
 /* Strength Tip #10 (Blog Roll)? */
 .blog-roll-title{
@@ -341,7 +341,7 @@ border-bottom: 15px solid #436268;
 background: #436268;
 color:#fff;
 border: none;
-font-family: 'museo-sans', Helvetica, sans-serif;	
+font-family: 'museo-sans', Helvetica, sans-serif;
 }
 
 .email-signup #mc_embed_signup {padding: 45px 0px;}
@@ -401,6 +401,11 @@ border-bottom: 1px solid #eee;
 .sidebar { }
 .sidebar section {
 padding: 0px 0px 30px 0px;
+}
+
+.widget_sp_image-2 > div > a > img {
+  width: 100% !important;
+  height: auto !important;
 }
 
 /* ==========================================================================
@@ -491,8 +496,8 @@ max-width: 1170px;
 }
 
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) { 
+@media (min-width: 1200px) {
 a.navbar-brand {
 margin-left: 75px;
-}	
+}
 }
