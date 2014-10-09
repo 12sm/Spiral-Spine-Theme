@@ -167,7 +167,7 @@ background-position: 50% 10%!important;
 }
 .video-box:hover, .blog-box:hover {
 transition: all .3s ease;
--webkit-filter: grayscale(0.3);
+-webkit-filter: grayscale(0);
 }
 .blog-title-banner {
 position: absolute;
