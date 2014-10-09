@@ -45,7 +45,7 @@ var Roots = {
     }
   },
     // Video Single
-  video_single: {
+  single_video: {
     init: function() {
       // JavaScript to be fired on the home page
      $('.menu-blog').removeClass('active');
