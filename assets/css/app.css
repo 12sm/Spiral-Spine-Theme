@@ -51,8 +51,11 @@ margin-bottom: -10px;
 
 body {background: #fff; }
 p {
-  color:#454545;
-  text-rendering: geometricPrecision;
+color: #666666;
+text-rendering: geometricPrecision;
+font-size: 16px;
+line-height: 1.5;
+margin: 0px 0 30px;
 }
 a{
    text-decoration: none!important;
