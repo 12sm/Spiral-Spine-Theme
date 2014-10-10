@@ -18,14 +18,13 @@
 
   function bounce(){
     $(this).stop().addClass("animated bounceIn");
+    oneoff();
   }
   function bounced(that){
-    $(that).stop().removeClass("animated bounceIn");
+    $('ul.nav li').stop().removeClass("animated bounceIn");
   }
   function oneoff(){
-    debugger;
-    var that = this;
-    $(this).one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', bounced(that));
+    $(this).one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', bounced);
   }
   // Use this variable to set up the common and page specific functions. If you
   // rename this variable, you will also need to rename the namespace below.
