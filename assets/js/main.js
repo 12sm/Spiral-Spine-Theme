@@ -30,8 +30,8 @@
       init: function() {
         // JavaScript to be fired on all pages
         $('.img-lq').imgLiquid();
-        $('.nav li').mouseover(bounce);
-        $('.nav li').mouseout(bounced);
+        $('.nav li').mouseenter(bounce);
+        $('.nav li').mouseleave(bounced);
         $(".content").fitVids();
       }
     },
@@ -39,22 +39,21 @@
     home: {
       init: function() {
         // JavaScript to be fired on the home page
-
       }
     },
       // Video Archive
     post_type_archive_video: {
       init: function() {
         // JavaScript to be fired on the home page
-       $('.menu-blog').removeClass('active');
+        $('.menu-blog').removeClass('active');
       }
     },
       // Video Single
     single_video: {
       init: function() {
         // JavaScript to be fired on the home page
-       $('.menu-blog').removeClass('active');
-       $('.menu-video').addClass('active');
+        $('.menu-blog').removeClass('active');
+        $('.menu-video').addClass('active');
       }
     },
     // About us page, note the change from about-us to about_us.
