@@ -431,6 +431,16 @@ border-bottom: 15px solid #436268;
 
 .email-signup h2, .email-signup h3 {color:#fff;}
 
+.email-signup h2 {
+  font-size: 22px;
+  font-weight:bold;
+}
+
+.email-signup h3 {
+  font-size: 20px;
+  font-weight:normal;
+}
+
 .submit-button {
 background: #436268;
 color:#fff;
@@ -600,18 +610,6 @@ a.navbar-brand {
 
 }
 
-@media (min-width:768px) and (max-width:991px;) {
- .email-signup h2 {
-  font-size: 22px;
-  font-weight:bold;
-}
-
-.email-signup h3 {
-  font-size: 20px;
-  font-weight:normal;
-} 
-}
-
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 
@@ -620,6 +618,14 @@ max-width: 1170px;
 }
 
 .email-signup #mc_embed_signup {padding: 45px 0px;}
+
+.email-signup h2 {
+  font-size: 37px;
+}
+
+.email-signup h3 {
+  font-size: 29px;
+}
 
 }
 
