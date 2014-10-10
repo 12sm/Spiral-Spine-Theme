@@ -111,6 +111,11 @@ a.navbar-brand {
 margin-left: 15px;
 }
 
+/* All backgroudn Hovers */
+a.btn.btn-blue:hover {
+background: #8BB5BE;
+}
+
 /*
  ***************************************************************
    The following are ordered by the styles in the style guide.
@@ -185,6 +190,7 @@ margin-bottom: 75px;
    color: #fff;
    border-radius: 0px;
    margin: 10px 0px 10px 0px;
+   transition: background .3s ease;
 }
 .margin-top-md{
    margin-top:50px;
