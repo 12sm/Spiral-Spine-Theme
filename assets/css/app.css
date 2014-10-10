@@ -112,7 +112,8 @@ margin-left: 15px;
 }
 
 /* All backgroudn Hovers */
-a.btn.btn-blue:hover {
+a.btn.btn-blue:hover,
+.submit-button:hover {
 background: #8BB5BE;
 }
 
@@ -466,6 +467,7 @@ border: none;
 font-family: 'museo-sans', Helvetica, sans-serif;
 float: none;
 width: 50%;
+transition:background .3s ease;
 }
 
 .video-box i {
