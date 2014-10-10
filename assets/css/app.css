@@ -103,7 +103,9 @@ width: 90%;
 margin-bottom: 5px;
 }
 
-.navbar-togg;e {width:auto;}
+.navbar-default .navbar-toggle {
+width: auto;
+}
 
 /*
  ***************************************************************
