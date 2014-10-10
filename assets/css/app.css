@@ -559,7 +559,11 @@ display: none;
 }
 
 p.blog-roll-meta {
-margin-bottom: 5px;
+margin-bottom: 10px;
+}
+
+.addthis_sharing_toolbox {
+margin-bottom: 10px;
 }
 
 /* ==========================================================================
