@@ -613,6 +613,10 @@ top: 0;
 opacity: .85;
 bottom: initial;
 }
+
+.sidebar section {
+padding: 0px;
+}
   
 }
 
