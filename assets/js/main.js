@@ -17,10 +17,10 @@
 (function($) {
 
   function bounce(){
-    $(this).addClass('animated bounceIn');
+    $(this).stop().addClass("animated bounceIn");
   }
   function bounced(){
-    $(this).removeClass('animated bounceIn');
+    $(this).stop().removeClass("animated bounceIn");
   }
   // Use this variable to set up the common and page specific functions. If you
   // rename this variable, you will also need to rename the namespace below.
