@@ -558,6 +558,9 @@ body.archive .page-header {
 display: none;
 }
 
+p.blog-roll-meta {
+margin-bottom: 5px;
+}
 
 /* ==========================================================================
    Posts
