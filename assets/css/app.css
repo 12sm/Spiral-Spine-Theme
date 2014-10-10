@@ -598,7 +598,10 @@ a.navbar-brand {
   padding: 10px 0px;
 }
 
-.email-signup h2 {
+}
+
+@media (min-width:768px) and (max-width:991px;) {
+ .email-signup h2 {
   font-size: 22px;
   font-weight:bold;
 }
@@ -606,8 +609,7 @@ a.navbar-brand {
 .email-signup h3 {
   font-size: 20px;
   font-weight:normal;
-}
-
+} 
 }
 
 /* Medium devices (desktops, 992px and up) */
