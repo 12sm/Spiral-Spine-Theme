@@ -30,7 +30,8 @@
       init: function() {
         // JavaScript to be fired on all pages
         $('.img-lq').imgLiquid();
-        $('.nav li').hover(bounce, bounced);
+        $('.nav li').mouseover(bounce);
+        $('.nav li').mouseout(bounced);
         $(".content").fitVids();
       }
     },
