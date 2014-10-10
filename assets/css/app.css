@@ -204,7 +204,7 @@ margin-bottom: 75px;
    margin: 10px 0px 10px 0px;
    transition: background .3s ease;
    border:none;
-   text-shadow:none;
+   box-shadow:none;
 }
 .margin-top-md{
    margin-top:50px;
