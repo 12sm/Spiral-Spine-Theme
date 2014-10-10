@@ -192,7 +192,8 @@ float: left;
 .blog-roll-body {
 margin-bottom: 75px;
 }
-.btn.btn-blue{
+.btn.btn-blue,
+.with_frm_style .frm_submit input[type=submit], .with_frm_style .frm_submit input[type=button], .frm_form_submit_style, .with_frm_style.frm_login_form input[type=submit]{
    font-weight: 900;
    font-size: 16px;
    text-transform: uppercase;
@@ -202,6 +203,8 @@ margin-bottom: 75px;
    border-radius: 0px;
    margin: 10px 0px 10px 0px;
    transition: background .3s ease;
+   border:none;
+   text-shadow:none;
 }
 .margin-top-md{
    margin-top:50px;
