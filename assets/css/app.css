@@ -120,6 +120,11 @@ a.btn.btn-blue:hover,
 background: #8BB5BE;
 }
 
+/* No page headers */
+body.page .page-header {
+display: none;
+}
+
 /*
  ***************************************************************
    The following are ordered by the styles in the style guide.
