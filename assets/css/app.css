@@ -160,28 +160,7 @@ text-align: center;
 font-size: 22px;
 margin-bottom: 0;
 background: #436268;
-}
-
-.new-book{
-   font-weight: 700;
-   font-size: 25px;
-   color: #fff;
-}
-.widget_sp_image-description {
-position: relative;
-background: #436268;
-bottom: 90px;
-width: 100%;
-margin-bottom: 50px;
 padding: 10px;
-}
-.widget_sp_image-description p {
-  letter-spacing: .0px;
-  font-weight: 500;
-  color: #FFF;	
-  text-align: center;
-  font-size: 22px;
-  margin-bottom:0;
 }
 
 /* Strength Tip */
