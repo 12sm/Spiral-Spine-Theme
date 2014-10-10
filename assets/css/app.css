@@ -95,9 +95,12 @@ blockquote {
 .container .container {
 width: initial;
 }
+
 input, button, select, textarea {
 border: none;
 padding: 5px;
+width: 90%;
+margin-bottom: 5px;
 }
 
 /*
@@ -625,6 +628,11 @@ max-width: 1170px;
 
 .email-signup h3 {
   font-size: 29px;
+}
+
+input, button, select, textarea {
+border: none;
+padding: 5px;
 }
 
 }
