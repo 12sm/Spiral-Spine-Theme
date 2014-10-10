@@ -608,6 +608,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 .blog-title-banner {
 top: 0;
 opacity: .85;
+bottom: initial;
 }
   
 }
