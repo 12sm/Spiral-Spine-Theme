@@ -523,7 +523,8 @@ border-bottom: 1px solid #eee;
    Sidebar
    ========================================================================== */
 
-.sidebar { }
+.sidebar {margin-top:50px;}
+
 .sidebar section {
 padding: 0px 0px 30px 0px;
 }
@@ -643,6 +644,10 @@ a.navbar-brand {
 margin-left: 15px!important;
 }
 
+.sidebar section {
+padding: 0px;
+}
+
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -675,6 +680,10 @@ a.navbar-brand {
 margin-left: -15px;
 }
 
+.sidebar section {
+padding: 0px 0px 30px 0px;
+}
+
 }
 
 /* Large devices (large desktops, 1200px and up) */
@@ -690,6 +699,10 @@ a.navbar-brand {
 
 a.navbar-brand {
 margin-left: -15px;
+}
+
+.sidebar section {
+padding: 0px 0px 30px 0px;
 }
 
 }
