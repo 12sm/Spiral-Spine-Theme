@@ -443,8 +443,9 @@ border-bottom: 15px solid #436268;
 .email-signup h2, .email-signup h3 {color:#fff;}
 
 .email-signup h2 {
-  font-size: 22px;
-  font-weight:bold;
+font-size: 26px;
+margin-top: 25px;
+font-weight: bold;
 }
 
 .email-signup h3 {
