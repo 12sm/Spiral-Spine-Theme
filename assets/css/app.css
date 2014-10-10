@@ -449,7 +449,7 @@ background: #436268;
 color:#fff;
 border: none;
 font-family: 'museo-sans', Helvetica, sans-serif;
-float: left;
+float: none;
 }
 
 .video-box i {
@@ -617,7 +617,7 @@ a.navbar-brand {
 @media (min-width: 992px) {
 
 .container-fluid {
-max-width: 1170px;
+  max-width: 1170px;
 }
 
 .email-signup #mc_embed_signup {padding: 45px 0px;}
@@ -631,8 +631,12 @@ max-width: 1170px;
 }
 
 input, button, select, textarea {
-border: none;
-padding: 5px;
+  border: none;
+  padding: 5px;
+}
+
+.submit-button {
+  float: left;
 }
 
 }
@@ -641,9 +645,11 @@ padding: 5px;
 @media (min-width: 1200px) {
 
 a.navbar-brand {
-margin-left: 75px;
+  margin-left: 75px;
 }
 
-.email-signup #mc_embed_signup {padding: 45px 0px;}
+.email-signup #mc_embed_signup {
+  padding: 45px 0px;
+}
 
 }
