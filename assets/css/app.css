@@ -2,6 +2,9 @@
  * Roots 6.5.0
  */
 
+li {
+  position: absolute !important;
+}
 
 .splash .banner{
    display: none!important;
@@ -332,7 +335,7 @@ margin-bottom: 10px;
 }
 
 /* ==========================================================================
-   Book 
+   Book
    ========================================================================== */
 
 h5.from-erin {
@@ -607,7 +610,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 /* No media query since this is the default in Bootstrap */
 
 @media (max-width: 767px) {
- 
+
 .blog-title-banner {
 top: 0;
 opacity: .85;
@@ -621,7 +624,7 @@ padding: 0px;
 .sidebar {
 margin-top: 50px;
 }
-  
+
 }
 
 /* Small devices (tablets, 768px and up) */
