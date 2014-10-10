@@ -35,7 +35,7 @@
         // JavaScript to be fired on all pages
         $('.img-lq').imgLiquid();
         $('ul.nav li').mouseenter(bounce);
-        $('ul.nav li').mouseleave(oneoff);
+        // $('ul.nav li').mouseleave(oneoff);
         // $('ul.nav li').mouseleave(bounced);
         $(".content").fitVids();
       }
