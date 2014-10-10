@@ -107,6 +107,10 @@ margin-bottom: 5px;
 width: auto;
 }
 
+a.navbar-brand {
+margin: 0;
+}
+
 /*
  ***************************************************************
    The following are ordered by the styles in the style guide.
@@ -616,6 +620,10 @@ a.navbar-brand {
   padding: 10px 0px;
 }
 
+a.navbar-brand {
+margin: -15px;
+}
+
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -644,6 +652,10 @@ input, button, select, textarea {
   float: left;
 }
 
+a.navbar-brand {
+margin: -15px;
+}
+
 }
 
 /* Large devices (large desktops, 1200px and up) */
@@ -655,6 +667,10 @@ a.navbar-brand {
 
 .email-signup #mc_embed_signup {
   padding: 45px 0px;
+}
+
+a.navbar-brand {
+margin: -15px;
 }
 
 }
