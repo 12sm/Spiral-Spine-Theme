@@ -560,6 +560,9 @@ font-weight: 600;
 .hentry .entry-content { }
 .hentry footer { }
 
+.addthis_32x32_style .dummy .at300bs, .addthis_32x32_style .at300bs, .addthis_32x32_style .at15t {
+background: url(../wp-content/themes/spiralspine/assets/img/icons.png) no-repeat left;
+}
 
 
 /* ==========================================================================
