@@ -113,7 +113,8 @@ margin-left: 15px;
 
 /* All backgroudn Hovers */
 a.btn.btn-blue:hover,
-.submit-button:hover {
+.submit-button:hover,
+.quote-block:hover {
 background: #8BB5BE;
 }
 
@@ -258,6 +259,7 @@ background: #5F8993;
 color: #fff;
 text-align: center;
 padding: 20px 10px 1px 20px;
+transition:backround .3s ease;
 }
 
 .single-video .published {display:none;}
