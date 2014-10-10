@@ -164,6 +164,9 @@ text-align: center;
 font-size: 22px;
 background: #436268;
 padding: 10px;
+position: absolute;
+width: 100%;
+bottom: 55px;
 }
 
 /* Strength Tip */
