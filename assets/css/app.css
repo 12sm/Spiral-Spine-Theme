@@ -108,7 +108,7 @@ width: auto;
 }
 
 a.navbar-brand {
-margin: 0;
+margin-left: 0;
 }
 
 /*
@@ -621,7 +621,7 @@ a.navbar-brand {
 }
 
 a.navbar-brand {
-margin: -15px;
+margin-left: -15px;
 }
 
 }
@@ -652,6 +652,9 @@ input, button, select, textarea {
   float: left;
 }
 
+a.navbar-brand {
+margin-left: -15px;
+}
 
 }
 
@@ -667,7 +670,7 @@ a.navbar-brand {
 }
 
 a.navbar-brand {
-margin: -15px;
+margin-left: -15px;
 }
 
 }
