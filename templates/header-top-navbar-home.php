@@ -26,7 +26,7 @@
     <div class="row">
     	<div class="col-md-6 col-sm-6">
     		<h2 style="margin-bottom: 6px;">Help Inform, Inspire, Ignite</h2>
-    		<h3 style="margin-top:0px">Get news to learn how.</h3>
+    		<h3 style="margin-top:0px;">Get news to learn how.</h3>
     	</div>
     	<div class="col-md-6 col-sm-6">
     	
