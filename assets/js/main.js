@@ -19,9 +19,9 @@
   function bounce(){
     $(this).stop().addClass("animated bounceIn");
   }
-  // function bounced(){
-  //   $(this).stop().removeClass("animated bounceIn");
-  // }
+  function bounced(){
+    $(this).stop().removeClass("animated bounceIn");
+  }
   // Use this variable to set up the common and page specific functions. If you
   // rename this variable, you will also need to rename the namespace below.
   var Roots = {
@@ -31,6 +31,7 @@
         // JavaScript to be fired on all pages
         $('.img-lq').imgLiquid();
         $('ul.nav li').mouseenter(bounce);
+        $('ul.nav li').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', bounced);
         // $('ul.nav li').mouseleave(bounced);
         $(".content").fitVids();
       }
