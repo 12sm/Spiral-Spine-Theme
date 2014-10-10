@@ -621,7 +621,7 @@ a.navbar-brand {
 }
 
 a.navbar-brand {
-margin-left: -15px;
+margin-left: 15px!important;
 }
 
 }
