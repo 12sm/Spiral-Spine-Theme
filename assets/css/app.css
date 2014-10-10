@@ -439,7 +439,6 @@ font-family: 'museo-sans', Helvetica, sans-serif;
 float: left;
 }
 
-.email-signup #mc_embed_signup {padding: 45px 0px;}
 .video-box i {
 font-size: 90px;
 color: rgba(255,255,255,.7);
@@ -592,21 +591,30 @@ a.navbar-brand {
 margin-left: 0px;
 }
 
- }
+.email-signup #mc_embed_signup {
+padding: 10px 0px;
+}
+
+}
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+
 .container-fluid {
 max-width: 1170px;
 }
 
-
+.email-signup #mc_embed_signup {padding: 45px 0px;}
 
 }
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
+
 a.navbar-brand {
 margin-left: 75px;
 }
+
+.email-signup #mc_embed_signup {padding: 45px 0px;}
+
 }
