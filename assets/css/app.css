@@ -434,6 +434,7 @@ background: #436268;
 color:#fff;
 border: none;
 font-family: 'museo-sans', Helvetica, sans-serif;
+float: left;
 }
 
 .email-signup #mc_embed_signup {padding: 45px 0px;}
