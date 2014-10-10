@@ -215,15 +215,12 @@ padding-bottom: 100%;
 .vid-thumb, .blog-thumb {
 padding-bottom: 55%;
 background-position: 50% 10%!important;
--webkit-filter: grayscale(0.3);
 }
 .blog-box, .video-box{
-   -webkit-filter: grayscale(0.3);
    transition: all .4s ease;
 }
 .video-box:hover, .blog-box:hover {
 transition: all .4s ease;
--webkit-filter: grayscale(0);
 }
 .blog-title-banner {
 position: absolute;
