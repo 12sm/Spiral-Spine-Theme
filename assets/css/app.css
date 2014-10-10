@@ -146,6 +146,12 @@ background: #8BB5BE;
    color: #fff;
 }
 /* New Book Coming Soon */
+
+.book-block img {
+width: 100%;
+height: auto;
+}
+
 .new-book{
    font-weight: 700;
    font-size: 25px;
@@ -167,6 +173,7 @@ padding: 10px;
   font-size: 22px;
   margin-bottom:0;
 }
+
 /* Strength Tip */
 .blog-title{
    font-weight: 700;
