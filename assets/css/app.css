@@ -156,6 +156,7 @@ display: none;
 
 .book-block {
 padding: 0;
+position:relative;
 }
 
 .book-block img {
