@@ -682,6 +682,10 @@ input, button {
 width: 100%;
 }
 
+.bottom-email-signup #mc_embed_signup {
+padding: 15px 0px;
+}
+
 }
 
 /* Small devices (tablets, 768px and up) */
