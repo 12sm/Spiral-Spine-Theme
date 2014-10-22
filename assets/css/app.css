@@ -683,6 +683,8 @@ width: 100%;
 }
 
 .bottom-email-signup #mc_embed_signup {
+width: 70%;
+margin: 0 auto;
 padding: 15px 0px;
 }
 
