@@ -254,13 +254,7 @@ max-height: 500px;
 min-height: 250px;
 overflow: hidden;
 }
-.home-boxes {
-background: #436268;
-padding: 5px;
-font-weight: 700;
-font-size: 14px;
-color: #fff;
-}
+
 .blog-roll-img {
 padding-bottom: 40%;
 margin-bottom:15px;
@@ -570,13 +564,24 @@ letter-spacing: 1px;
 font-weight: 600;
 }
 
-.sidebar-video, 
-.sidebar-blog {
-display: block;
-position: relative;	
+.home-boxes {
+background: #436268;
+padding: 5px;
+font-weight: 700;
+font-size: 14px;
+color: #fff;
+text-align:center;
 }
 
-.sidebar-video .video-title {
+.sidebar-video, .sidebar-blog {
+display: block;
+position: relative;
+margin-bottom: 15px;
+border: 1px solid #618a94;
+}
+
+.sidebar-video .video-title,
+.sidebar-blog .blog-title {
 display: block;
 position: absolute;
 bottom: 0px;
@@ -587,7 +592,7 @@ padding: 10px;
 
 .video-box i {
 font-size: 90px;
-color: rgba(255,255,255,.7);
+color: rgba(255,255,255,.5);
 position: absolute;
 top: 20%;
 right: 50%;
@@ -596,6 +601,9 @@ margin-left: -25%;
 margin-right: -25%;
 pointer-events: none;
 }
+
+.sidebar-video:hover i {color: rgba(255,255,255,.9);}
+
 a[title='Edit view'] {
 display: none;
 }
