@@ -615,6 +615,23 @@ display: none;
 text-align: center;
 position: relative;
 }
+
+.sidebar .widget_categories ul{
+padding: 0px;
+list-style: none;
+list-style-type: none;
+}
+
+.sidebar .widget_categories ul li a {
+display: block;
+width: 100%;
+color: #fff;
+background: #618a94;
+padding: 7px;	
+}
+
+
+
 /* ==========================================================================
    Blog Archive
    ========================================================================== */
