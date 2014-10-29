@@ -326,13 +326,29 @@ h1.video-title{
    font-size: 15px;
    color: #618a94;
 }
-p.video-thumb-title {
-text-align: center;
-margin-top: 5px;
-}
+
 .video-block {
 padding-bottom: 25px;
 }
+
+.video-block a {
+display:block;
+position:relative;	
+}
+
+.video-block a .video-thumb-title {
+text-align: center;
+display: inline-block;
+position: absolute;
+bottom: 0px;
+width: 100%;
+background: rgba(255,255,255,0.8);
+padding: 10px;
+color: #618a94;
+font-weight: 400;
+font-size: 14px;	
+}
+
 .btn-vid{
 float: right;
 margin-bottom: 10px;
