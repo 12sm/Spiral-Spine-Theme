@@ -55,9 +55,10 @@ body {background: #fff; }
 p {
 color: #666666;
 text-rendering: geometricPrecision;
-font-size: 16px;
-line-height: 1.5;
-margin: 0px 0 30px;
+font-size: 14px;
+line-height: 1.6em;
+margin: 0px 0 15px;
+font-weight: 300;
 }
 a{
    text-decoration: none!important;
@@ -762,8 +763,8 @@ padding: 15px 0px;
 @media (min-width: 768px) {
 
 h1 {
-  font-size: 56px;
-  line-height: 56px;
+  font-size: 50px;
+  line-height: 50px;
 }
 
 h2 {
