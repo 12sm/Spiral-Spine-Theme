@@ -60,6 +60,13 @@ line-height: 1.6em;
 margin: 0px 0 15px;
 font-weight: 300;
 }
+
+.entry-content img {
+vertical-align: middle;
+max-width: 100%;
+height: auto;	
+}
+
 a{
    text-decoration: none!important;
    color:#618a94;
