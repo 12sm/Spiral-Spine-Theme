@@ -807,7 +807,8 @@ padding-bottom: 40%;
 margin: 0px 15px 15px 0px;
 max-width: 325px;
 width: 325px;
-display: inline-block;
+display: inline;
+float: left;
 }
 
 }
