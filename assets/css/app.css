@@ -723,8 +723,17 @@ padding: 0px 5px;
    ========================================================================== */
 
 .aligncenter { display: block; margin: 0 auto; }
-.alignleft { float: left; }
-.alignright { float: right; }
+
+.alignleft {
+  float: left;
+  margin: 0px 15px 15px 0px;
+}
+
+.alignright {
+  float: right;
+  margin: 0px 15px 0px 15px;
+}
+
 figure.alignnone { margin-left: 0; margin-right: 0; }
 
 
