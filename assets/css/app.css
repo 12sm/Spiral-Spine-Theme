@@ -98,6 +98,14 @@ blockquote {
   background: #F3F6F7;
   font-weight: 200;
 }
+
+.tp-simpleresponsive .caption, .tp-simpleresponsive .tp-caption {
+position: absolute;
+-webkit-font-smoothing: antialiased !important;
+font-family: sans-serif!important;
+}
+
+
 .container{
    background: #fff;
    max-width: 100%;
