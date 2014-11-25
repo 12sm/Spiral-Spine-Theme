@@ -573,7 +573,7 @@ border-bottom: 1px solid #eee;
 
 .sidebar {margin-top:50px;}
 
-.sidebar a {
+.sidebar a, .sidebar a:hover {
   color:#fff;
 }
 
