@@ -26,7 +26,7 @@
     <div class="row">
     	<div class="col-md-6 col-sm-6">
     		<h3 style="margin-bottom: 6px;">Join millions worldwide in learning to better manage your scoliosis.</h3>
-    		<h4 style="margin-top:0px;">Sign up here.</h4>
+    		<h4 style="margin-top:0px;color:#FFF;">Sign up here.</h4>
     	</div>
     	<div class="col-md-6 col-sm-6">
 
@@ -41,7 +41,7 @@
 			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="E-Mail">
 		</div>
 		<div class="col-sm-12 col-md-4">
-			<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="submit-button">
+			<input type="submit" value="Sign up Here" name="subscribe" id="mc-embedded-subscribe" class="submit-button">
 		</div>
     </div>
 	<div id="mce-responses" class="clear">

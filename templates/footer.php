@@ -2,8 +2,8 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-6 col-sm-6">
-        <h2>Inform, Inspire, Ignite</h2>
-        <h3>Get news to learn how.</h3>
+        <h3 style="margin-bottom: 6px;">Join millions worldwide in learning to better manage your scoliosis.</h3>
+        <h4 style="margin-top:0px;color:#FFF;">Sign up here.</h4>
       </div>
       <div class="col-md-6 col-sm-6">
         <div id="mc_embed_signup">
