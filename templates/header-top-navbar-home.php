@@ -25,11 +25,11 @@
     <div class="container-fluid">
     <div class="row">
     	<div class="col-md-6 col-sm-6">
-    		<h2 style="margin-bottom: 6px;">Help Inform, Inspire, Ignite</h2>
-    		<h3 style="margin-top:0px;">Get news to learn how.</h3>
+    		<h3 style="margin-bottom: 6px;">Join millions worldwide in learning to better manage your scoliosis.</h3>
+    		<h4 style="margin-top:0px;">Sign up here.</h4>
     	</div>
     	<div class="col-md-6 col-sm-6">
-    	
+
 <div id="mc_embed_signup">
 <form action="//spiralspine.us9.list-manage.com/subscribe/post?u=d73eb5a9058233250acd4b164&amp;id=41c0f87e4f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
   <div id="mc_embed_signup_scroll">
@@ -54,7 +54,7 @@
 </div>
 
 
-    	</div>	
-    </div>	
+    	</div>
     </div>
-  </div>  
+    </div>
+  </div>
