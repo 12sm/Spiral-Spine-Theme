@@ -17,7 +17,7 @@
                   <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="E-Mail">
                 </div>
                 <div class="col-md-4">
-                  <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="submit-button">
+                  <input type="submit" value="Sign up Here" name="subscribe" id="mc-embedded-subscribe" class="submit-button">
                 </div>
               </div>
               <div id="mce-responses" class="clear">
